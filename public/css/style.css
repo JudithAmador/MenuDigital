@@ -1,0 +1,66 @@
+
+#main img
+{
+    max-height: 60vh;
+ 
+   
+}
+.alert 
+{
+    padding: 12%;
+}
+
+#carousel
+{
+    position: relative;
+}
+.containertext
+{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    
+}
+.modal-body
+{
+    color: black;
+}
+.cont3 h2
+{
+    margin-top: 10px;
+}
+.cont, .cont3{
+    background-color: #BDBDBD;
+   
+}
+.cont2, .cont4
+{
+    background-color: #D8D8D8;
+
+}
+.fa:hover{
+    color: yellow;
+}
+.card-body
+{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+
+}
+#cabecera h4{
+    color:white;
+}
+ #footer
+{
+    background-color: black;
+    color: white;
+}
+#footerDivider
+{
+   background-color: #2E2E2E; 
+   color: white;
+}
